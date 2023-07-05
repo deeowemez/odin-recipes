@@ -1,0 +1,39 @@
+/* style.css */
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title_main{
+    text-align: center;
+    background-color: rgb(173, 77, 77);
+    color: white;
+}
+
+.title_sub{
+    text-align: center;
+    background-color: burlywood;
+    color: white;
+}
+
+.gray_font{
+    color: rgb(54, 54, 54);
+    font-size: 17px;
+}
+
+li{
+    color: rgb(54, 54, 54);
+    font-size: 17px;
+}
+
+.li_main{
+    font-size: 22px;
+}
+
+.img{
+    height: auto;
+    width: 700px;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
